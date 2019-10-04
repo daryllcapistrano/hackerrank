@@ -1,2 +1,3 @@
 # hackerrank
-30 Days of Code
+My solutions to HackerRank's 30 Days of Code
+
